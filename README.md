@@ -1,4 +1,4 @@
-![Screenshot](readme-banner.png)
+![Screenshot](img/readme-banner.png)
 
 # Star Wars Form
 
@@ -25,7 +25,7 @@ Este é um projeto simples que simula uma abertura estilo "Star Wars" em uma pá
 
 1. Clone este repositório para o seu computador.
 	```bash
-	git clone git@github.com:designtechti490/calculadora-IMC.git 
+	git clone git@github.com:designtechti490/cadastro-de-Devs.git 
 	```
 2. Execute um Servidor Local com o Live Server do VS Code.
 
@@ -38,7 +38,7 @@ Este é um projeto simples que simula uma abertura estilo "Star Wars" em uma pá
 
 ## Exemplo de Uso
 
-![Exemplo de Uso](screenrecord.gif)
+![Exemplo de Uso](img/screenrecord.gif)
 
 ## Contribuição
 
